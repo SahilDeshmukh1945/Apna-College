@@ -1,1 +1,3 @@
 Im studying about git
+
+Adding the second line
