@@ -2,3 +2,5 @@ Im studying about git
 
 Adding the second line
 This line is from feature branch
+
+This line is from third branch
